@@ -1,0 +1,20 @@
+div.photo img {
+    max-width: 100%;
+}
+
+.headed h1, .headed h4 {
+    margin-bottom: 0;
+}
+
+.skills .list_title {
+    font-size: 18px;
+}
+
+.skills li ul li {
+    float: left;
+    padding-left: 10px;
+}
+
+.clear {
+    clear: both;
+}
